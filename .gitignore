@@ -1,0 +1,6 @@
+# Ignore Visual Studio Code directory
+.vscode/
+
+# Ignore Python bytecode cache directories
+__pycache__/
+
